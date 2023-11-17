@@ -1,5 +1,5 @@
 # hello-world
-Hello World repository for Git tutorial, apagnan
+Hello World repository for Git tutorial, apagnan, quoicoubeh
 This is an example repository for the Git tutoial on 
 https://www.w3schools.com
 This repository is built step by step in the tutorial.
